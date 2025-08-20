@@ -36,6 +36,8 @@ The project **extracts real-time weather data** from APIs, **transforms** it int
 - **Schedule** (pipeline automation)  
 
 ---
+
+## 🔹 Repository Structure
 weather_etl_project/
 │
 ├── etl/
@@ -55,5 +57,3 @@ weather_etl_project/
 │
 ├── requirements.txt # Python dependencies
 └── README.md
-
-## 🔹 Repository Structure
