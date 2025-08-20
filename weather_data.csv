@@ -1,0 +1,6 @@
+city,temperature_c,humidity,wind_speed,description,timestamp
+London,21.54,36,5.99,overcast clouds,2025-08-20 16:31:29
+London,21.54,36,5.99,overcast clouds,2025-08-20 16:39:31
+New York,22.87,75,5.87,overcast clouds,2025-08-20 16:43:29
+Tokyo,30.23,60,1.5,few clouds,2025-08-20 16:51:01
+Paris,18.45,83,0.53,overcast clouds,2025-08-20 16:46:39
